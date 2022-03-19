@@ -2,7 +2,7 @@
 
 This repository provides the codes and dataframes related to our paper entitled **"Who does What to Whom? Graph Representations of Action-Predication in Speech Relate to Psychopathological Dimensions of Psychosis"**. 
 In this paper we have used Semantic Role Labeling (SRL) to produce graphical representations of speech based on the two universal relations of action (i.e. what entities act upon each other) and predication (i.e. what activities are performed). 
-The codes are part of language processing pipeling developed at Tang Lab, the Feinstein Institutes for Medical Research, to process clinical speech samples.
+The codes are part of language processing pipeline developed at Tang Lab, the Feinstein Institutes for Medical Research, to process clinical speech samples.
 
 ## Codes
 

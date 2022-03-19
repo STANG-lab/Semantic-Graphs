@@ -16,6 +16,6 @@ We have used [transformer-srl](https://github.com/Riccorl/transformer-srl/) repo
 
 ## Datasets
 
-You can use a publicly available dataset, **filtered_words_youtube.csv**, and run it through above-mentioned pieces of our pipeline.
+You can use our publicly available dataset, **filtered_words_youtube.csv**, and run it through above-mentioned pieces of our pipeline.
 
 Graph features and clinical data used in our paper are also available in two csv files for *Picture Description* and *Open-ended Narrative* tasks.
